@@ -11,13 +11,13 @@ need to be changed manually - MC
 <viewer_version>
 
   <!--int-->
-  <viewer version_major="1" />
+  <viewer version_major="0" />
 
   <!--int-->
   <viewer version_minor="0" />
 
   <!--int-->
-  <viewer version_patch="0" />
+  <viewer version_patch="3" />
 
   <!--string-->
   <viewer version_test="" />
