@@ -379,7 +379,7 @@ int main(int argc, char **argv)
 		}
 		else
 		{
-			gProductName = "astra";
+			gProductName = "Virtual Reality";
 		}
 	}
 	
@@ -935,7 +935,7 @@ void *updatethreadproc(void*)
 
 #endif // 0 *HACK for DEV-11935
 		
-		strncat(temp, "/ImprudenceUpdate_XXXXXX", (sizeof(temp) - strlen(temp)) - 1);
+		strncat(temp, "/VirtualRealityUpdate_XXXXXX", (sizeof(temp) - strlen(temp)) - 1);
 		if(mkdtemp(temp) == NULL)
 		{
 			throw 0;
@@ -953,7 +953,7 @@ void *updatethreadproc(void*)
 				
 		chdir(tempDir);
 		
-		snprintf(temp, sizeof(temp), "Imprudence.dmg");		
+		snprintf(temp, sizeof(temp), "VirtualReality.dmg");		
 		
 		downloadFile = LLFile::fopen(temp, "wb");		/* Flawfinder: ignore */
 		if(downloadFile == NULL)
