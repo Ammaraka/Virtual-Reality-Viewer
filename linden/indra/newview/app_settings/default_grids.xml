@@ -4,18 +4,18 @@
       <key>default_grids_version</key><string>27</string>
     </map>
 
-    <!-- AstraGrid -->
+    <!-- Virtual Reality -->
     <map>
-      <key>gridnick</key><string>AstraGrid</string>
-      <key>gridname</key><string>AstraGrid</string>
-      <key>platform</key><string>OpenSim</string>
-      <key>loginuri</key><string>http://login.astragrid.com:8002/</string>
-      <key>loginpage</key><string>http://astragrid.com/loginscreen/</string>
-      <key>helperuri</key><string>http://astragrid.com/index.php?page=help</string>
-      <key>website</key><string>http://astragrid.com/</string>
-      <key>support</key><string>http://astragrid.com/index.php?page=support</string>
-      <key>register</key><string>http://astragrid.com/index.php?page=register</string>
-      <key>password</key><string>http://astragrid.com/index.php?page=forgotpass</string>
+      <key>gridnick</key><string>VirtualReality</string>
+      <key>gridname</key><string>Virtual Reality</string>
+      <key>platform</key><string>VirtualReality</string>
+      <key>loginuri</key><string>http://login.virtualrealitygrid.net</string>
+      <key>loginpage</key><string>http://stats.virtualrealitygrid.net</string>
+      <key>helperuri</key><string>http:/secure.virtualrealitygrid.net</string>
+      <key>website</key><string>http://www.virtualrealitygrid.org</string>
+      <key>support</key><string>http://support.virtualrealitygrid.org</string>
+      <key>register</key><string>http://stepintovirtualreality.virtualrealitygrid.org</string>
+      <key>password</key><string>http://account.virtualrealitygrid.org</string>
       <key>version</key><string>0</string>
     </map>
     
@@ -44,135 +44,5 @@
       <key>helperuri</key><string>http://127.0.0.1:9000/</string>
       <key>version</key><string>1</string>
     </map>
-
-    <!-- OSGrid -->
-    <map>
-      <key>gridnick</key><string>OSGrid</string>
-      <key>gridname</key><string>OSGrid</string>
-      <key>platform</key><string>OpenSim</string>
-      <key>loginuri</key><string>http://login.osgrid.org/</string>
-      <key>loginpage</key><string>http://wwww.osgrid.org/splash/</string>
-      <key>helperuri</key><string>http://helper.osgrid.org/</string>
-      <key>website</key><string>http://www.osgrid.org/</string>
-      <key>support</key><string>http://www.osgrid.org/</string>
-      <key>register</key><string>http://www.osgrid.org/</string>
-      <key>password</key><string>http://www.osgrid.org/</string>
-      <key>version</key><string>1</string>
-    </map>
-
-    <!-- Your Alternative Life -->
-    <map>
-      <key>gridnick</key><string>YourAlternativeLife</string>
-      <key>gridname</key><string>Your Alternative Life</string>
-      <key>platform</key><string>OpenSim</string>
-      <key>loginuri</key><string>http://grid01.from-ne.com:8002/</string>
-      <key>loginpage</key><string>http://grid01.from-ne.com/tios/loginscreen3.php</string>
-      <key>helperuri</key><string>http://grid01.from-ne.com/tios/services/</string>
-      <key>website</key><string>http://www.youralternativelife.com</string>
-      <key>support</key><string>http://www.youralternativelife.com</string>
-      <key>register</key><string>http://www.youralternativelife.com</string>
-      <key>password</key><string>http://www.youralternativelife.com</string>
-      <key>version</key><string>0</string>
-
-    </map>
-
-    <!-- The New World Grid -->
-    <map>
-      <key>gridnick</key><string>TheNewWorldGrid</string>
-      <key>gridname</key><string>The New World Grid</string>
-      <key>platform</key><string>OpenSim</string>
-      <key>loginuri</key><string>http://grid.newworldgrid.com:8002/</string>
-      <key>loginpage</key><string>http://account.newworldgrid.com/loginscreen.php</string>
-      <key>helperuri</key><string>http://account.newworldgrid.com/</string>
-      <key>website</key><string>http://www.newworldgrid.com/</string>
-      <key>support</key><string>http://www.newworldgrid.com/</string>
-      <key>register</key><string>http://www.newworldgrid.com/register</string>
-      <key>password</key><string>http://account.newworldgrid.com/</string>
-      <key>version</key><string>0</string>
-    </map>
-
-    <!-- ReactionGrid -->
-    <map>
-      <key>gridnick</key><string>ReactionGrid</string>
-      <key>gridname</key><string>ReactionGrid</string>
-      <key>platform</key><string>OpenSim</string>
-      <key>loginuri</key><string>http://reactiongrid.com:8008/</string>
-      <key>loginpage</key><string>http://gsquared.info/portal</string>
-      <key>website</key><string>http://reactiongrid.com/Default.aspx</string>
-      <key>support</key><string>http://reactiongrid.com/Support.aspx</string>
-      <key>register</key><string>http://reactiongrid.com/Register.aspx</string>
-      <key>password</key><string>http://reactiongrid.com/Support/ResetPassword.aspx</string>
-      <key>version</key><string>0</string>
-    </map>
-
-    <!-- InWorldz -->
-    <map>
-      <key>gridname</key>  <string>Inworldz</string>
-      <key>gridnick</key>  <string>Inworldz</string>
-      <key>platform</key>  <string>OpenSim</string>
-      <key>loginuri</key>  <string>http://inworldz.com:8002/</string>
-      <key>loginpage</key> <string>http://inworldz.com/loginscreen.php</string>
-      <key>helperuri</key> <string>http://inworldz.com/</string>
-      <key>password</key>  <string>http://inworldz.com/wpassword</string>
-      <key>register</key>  <string>http://inworldz.com/register.php</string>
-      <key>support</key>   <string>http://inworldz.com/faq.php</string>
-      <key>website</key>   <string>http://inworldz.com/</string>
-      <key>version</key>   <string>1</string>
-    </map> 
-
-    <!-- Meta7 -->
-    <map>
-      <key>gridname</key>  <string>Meta7</string>
-      <key>gridnick</key>  <string>Meta7</string>
-      <key>platform</key>  <string>OpenSim</string>
-      <key>loginuri</key>  <string>http://login.meta7.com/</string>
-      <key>loginpage</key> <string>http://api.meta7.com/loginscreen.php</string>
-      <key>helperuri</key> <string>https://secure.meta7.com/</string>
-      <key>password</key>  <string>http://www.meta7.com/resetpass.php</string>
-      <key>register</key>  <string>http://www.meta7.com/register.php</string>
-      <key>support</key>   <string>http://www.meta7.com/support.php</string>
-      <key>website</key>   <string>http://meta7.com/</string>
-      <key>version</key>   <string>0</string>
-    </map>
-
-    <!-- ScienceSim -->
-    <map>
-      <key>gridname</key>  <string>ScienceSim</string>
-      <key>gridnick</key>  <string>ScienceSim</string>
-      <key>platform</key>  <string>OpenSim</string>
-      <key>loginuri</key>  <string>http://grid.sciencesim.com/Grid/login/</string>
-      <key>loginpage</key> <string>http://island.sciencesim.com/scisim/loginscreen.php</string>
-      <key>helperuri</key> <string></string>
-      <key>password</key>  <string>http://www.sciencesim.com/simian/</string>
-      <key>register</key>  <string>http://www.sciencesim.com/simian/</string>
-      <key>support</key>   <string>http://island.sciencesim.com/wiki</string>
-      <key>website</key>   <string>http://www.sciencesim.com/simian/</string>
-      <key>version</key>   <string>0</string>
-    </map>
-
-    <!-- AuroraGrid -->
-    <map>
-        <key>gridname</key>
-            <string>AuroraGrid</string>
-        <key>gridnick</key>
-            <string>AuroraGrid</string>
-        <key>helperuri</key>
-            <string>http://login.aurora-sim.org:8002/</string>
-        <key>loginpage</key>
-            <string>http://login.aurora-sim.org/splash/</string>
-        <key>loginuri</key>
-            <string>http://login.aurora-sim.org:8002/</string>
-        <key>password</key>
-            <string />
-        <key>platform</key>
-            <string>OpenSim</string>
-        <key>register</key>
-            <string />
-        <key>support</key>
-            <string>http://aurora-sim.org/</string>
-        <key>website</key>
-            <string>http://aurora-sim.org/</string>
-    </map>
-    
   </array>
 </llsd>
