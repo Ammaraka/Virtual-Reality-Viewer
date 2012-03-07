@@ -6,7 +6,7 @@
 *
 * Copyright (c) 2010, McCabe Maxsted
 *
-* Imprudence Viewer Source Code
+* Virtual Reality Viewer Source Code
 * The source code in this file ("Source Code") is provided to you
 * under the terms of the GNU General Public License, version 2.0
 * ("GPL"). Terms of the GPL can be found in doc/GPL-license.txt in
@@ -41,15 +41,15 @@ public:
 
 	static bool initViewerVersion();
 
-	// Returns the major version of Imprudence
+	// Returns the major version of Virtual Reality
 	static S32			getImpMajorVersion() { return sVersionMajor; }
-	// Returns the minor version of Imprudence
+	// Returns the minor version of Virtual Reality
 	static S32			getImpMinorVersion() { return sVersionMinor; }
-	// Returns the patch version of Imprudence
+	// Returns the patch version of Virtual Reality
 	static S32			getImpPatchVersion() { return sVersionPatch; }
-	// Returns the test version of Imprudence
+	// Returns the test version of Virtual Reality
 	static std::string  getImpTestVersion() { return sVersionTest; }
-	// Returns the name of the viewer. Currently always "Imprudence"
+	// Returns the name of the viewer. Currently always "Virtual Reality"
 	static std::string	getImpViewerName() { return sViewerName; }
 
 	// Returns the major version of Second Life
