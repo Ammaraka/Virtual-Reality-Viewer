@@ -40,7 +40,7 @@ S32 ViewerVersion::sVersionMinor = 0;
 S32 ViewerVersion::sVersionPatch = 0;
 std::string ViewerVersion::sVersionTest = "";
 
-const std::string ViewerVersion::sViewerName = "Astra Viewer";
+const std::string ViewerVersion::sViewerName = "Virtual Reality Viewer";
 
 ViewerVersion::ViewerVersion()
 {
